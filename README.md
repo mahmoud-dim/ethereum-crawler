@@ -59,7 +59,6 @@ Replace `YOUR_PROJECT_ID` with your Infura project ID.
 
 ## Setup Instructions
 **Backend**
-```bash
 git clone <your-repo-link>
 cd backend
 npm install
