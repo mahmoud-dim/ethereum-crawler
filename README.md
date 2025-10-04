@@ -1,4 +1,3 @@
-# ethereum-crawler
 # Ethereum Crawler
 
 ## Description
