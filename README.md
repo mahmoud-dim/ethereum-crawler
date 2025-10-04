@@ -20,7 +20,7 @@ Ethereum Crawler is a full-stack application that allows users to view transacti
 
 ## Project Structure
 **Frontend**
-'frontend/
+ ```frontend/
  ├─ src/
  │  ├─ api/                  # Axios instance & services
  │  ├─ components/           # Reusable UI components (Navbar, Loader, Tables)
@@ -29,10 +29,10 @@ Ethereum Crawler is a full-stack application that allows users to view transacti
  │  ├─ utils/                # Helpers: formatting, constants, validation
  │  ├─ styles/               # Global styles & CSS variables
  │  ├─ App.tsx               # App router
- │  └─ main.tsx              # React entry point '
- 
-'**Backend**
-backend/
+ │  └─ main.tsx              # React entry point 
+ ```
+**Backend**
+```backend/
 ├─ package.json
 ├─ server.js
 ├─ routes/
@@ -43,8 +43,8 @@ backend/
 │ ├─ ethersProvider.js
 │ └─ tokenService.js
 ├─ .env.example
-└─ README.md '
-
+└─ README.md 
+```
 
 ## Prerequisites
 - Node.js version 22 or higher  
