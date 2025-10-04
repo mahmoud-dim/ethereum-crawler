@@ -30,6 +30,7 @@ frontend/
  │  ├─ styles/               # Global styles & CSS variables
  │  ├─ App.tsx               # App router
  │  └─ main.tsx              # React entry point
+ 
 **Backend**
 backend/
 ├─ package.json
